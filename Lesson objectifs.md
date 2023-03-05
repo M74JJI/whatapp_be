@@ -1,18 +1,20 @@
-# Setup routes and controllers
+# Integrate Mongodb to our application
 
-Adding routes setup and controllers functions.
+Let's add mongodb as our main database.
 
 ## Objectifs
 
-- Add routes setup and files.
+- Create a mongodb cluster.
 
-- Trim incoming requests.
+- Connect to the database from our express app.
 
-- Add controllers functions.
+- Handle mongodb connection errors.
+
+- Activate debugging mode.
 
 ## Packages we will use
 
-**Trim-request:** <br/>[![Cors](https://img.shields.io/npm/v/trim-request.svg?logo=trim-request)](https://www.npmjs.com/package/trim-request)
+**Mongoose:** <br/>[![Mongoose](https://img.shields.io/npm/v/mongoose.svg?logo=mongoose)](https://www.npmjs.com/package/mongoose)
 
 ## Course created by
 
