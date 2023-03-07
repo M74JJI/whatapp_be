@@ -23,6 +23,7 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.21",
     "trim-request": "^1.0.6",
+    "validator": "^13.9.0",
     "winston": "^3.8.2"
   }
 }
