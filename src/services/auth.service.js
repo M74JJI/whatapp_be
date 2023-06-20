@@ -18,7 +18,7 @@ export const createUser = async (userData) => {
   if (
     !validator.isLength(name, {
       min: 2,
-      max: 16,
+      max: 25,
     })
   ) {
     throw createHttpError.BadRequest(
